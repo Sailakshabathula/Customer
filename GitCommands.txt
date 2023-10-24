@@ -1,0 +1,4 @@
+we want add all staging files to eligible to commit 
+
+->git add --a
+
